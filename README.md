@@ -25,10 +25,6 @@ Katakan.id has several features such as a chatbot feature to ask questions about
 <center><img src="/docs/images/About3.png" alt="Preview Image" /></center>
 <center><img src="/docs/images/About4.png" alt="Preview Image" /></center>
 
-- Login
-
-<center><img src="/docs/images/Login.png" alt="Preview Image" /></center>
-
 - Chatbot
 
 <center><img src="/docs/images/Chatbot1.png" alt="Preview Image" /></center>
