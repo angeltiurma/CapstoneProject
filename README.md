@@ -62,9 +62,6 @@ Katakan.id has several features such as a chatbot feature to ask questions about
 
 <left><img src="/docs/images/log-in.png" alt="Preview Image" /></left>
 
-➡️ Login to website Katakan.id
-
-➡️ 🏃‍♀️ Logout Katakan.id account
 
 ## Installation
 
